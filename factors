@@ -20,10 +20,4 @@ def factor():
                     break
             if num % i != 0:
                 print("{}={}*1".format(num, num))
-
-
 factor()
-
-    © 2022 GitHub, Inc.
-
-    T
